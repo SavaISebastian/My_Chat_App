@@ -1,1 +1,1 @@
-# My_Chat_App
+# Functional C# ChatApp with an UI inspired from Discord.
